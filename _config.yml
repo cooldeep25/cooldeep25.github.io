@@ -4,7 +4,7 @@ plugins:
 
 title: cooldeep25
 description: 
-show_downloads: true
-google_analytics:
+show_downloads: false
+google_analytics: G-NPWV3QRLSD
 theme: jekyll-theme-cayman
 
