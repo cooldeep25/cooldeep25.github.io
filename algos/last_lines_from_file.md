@@ -2,7 +2,7 @@
 ## Getting Last N Lines From Text File
 
 #### Read N lines from the the file using queue 
-- link: https://www.online-python.com/0t8LYjwvEH
+- link: [https://www.online-python.com/0t8LYjwvEH](https://www.online-python.com/0t8LYjwvEH)
 
 ```python
 # last_lines_from_file.py
@@ -46,7 +46,7 @@ test_last_lines_from_file(78239, 5)
 
 #### Read N lines from the the file by seeking the positions
 
-- link: https://www.online-python.com/Bi4SXOPngp 
+- link: [https://www.online-python.com/Bi4SXOPngp ](https://www.online-python.com/Bi4SXOPngp )
 
 ```python
 # link: https://www.online-python.com/Bi4SXOPngp
